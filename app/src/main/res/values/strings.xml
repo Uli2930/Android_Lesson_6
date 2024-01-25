@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android_Lesson_6</string>
+    <string name="button_1">button 1</string>
+    <string name="circle">Circle</string>
+    <string name="button_3">Button 3</string>
+    <string name="big_botton">Big botton</string>
+    <string name="france">FRANCE</string>
+    <string name="paris">Paris</string>
+</resources>
